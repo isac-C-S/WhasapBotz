@@ -1,0 +1,38 @@
+2024/12/08-19:42:22.506 3414 Reusing MANIFEST C:\Users\isac\Desktop\WhasapBot\tokens\apizap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/08-19:42:22.507 3414 Recovering log #830
+2024/12/08-19:42:22.525 3414 Reusing old log C:\Users\isac\Desktop\WhasapBot\tokens\apizap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000830.log 
+2024/12/08-19:42:24.546 1364 Level-0 table #839: started
+2024/12/08-19:42:24.660 1364 Level-0 table #839: 378022 bytes OK
+2024/12/08-19:42:24.705 1364 Delete type=0 #830
+2024/12/08-19:42:24.706 1e64 Manual compaction at level-0 from '\x00\x86\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x87\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/08-19:42:24.712 3414 Compacting 1@1 + 5@2 files
+2024/12/08-19:42:25.012 3414 Generated table #840@1: 85889 keys, 2235730 bytes
+2024/12/08-19:42:25.252 3414 Generated table #841@1: 62991 keys, 2246311 bytes
+2024/12/08-19:42:25.394 3414 Generated table #842@1: 9867 keys, 2171387 bytes
+2024/12/08-19:42:25.799 3414 Generated table #843@1: 32482 keys, 2199287 bytes
+2024/12/08-19:42:26.100 3414 Generated table #844@1: 82314 keys, 1703404 bytes
+2024/12/08-19:42:26.100 3414 Compacted 1@1 + 5@2 files => 10556119 bytes
+2024/12/08-19:42:26.129 3414 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/12/08-19:42:26.130 3414 Delete type=2 #832
+2024/12/08-19:42:26.130 3414 Delete type=2 #833
+2024/12/08-19:42:26.130 3414 Delete type=2 #834
+2024/12/08-19:42:26.130 3414 Delete type=2 #835
+2024/12/08-19:42:26.130 3414 Delete type=2 #836
+2024/12/08-19:42:26.130 3414 Delete type=2 #839
+2024/12/08-20:41:05.346 1e64 Level-0 table #846: started
+2024/12/08-20:41:05.560 1e64 Level-0 table #846: 1259584 bytes OK
+2024/12/08-20:41:05.603 1e64 Delete type=0 #838
+2024/12/08-20:41:05.857 3414 Compacting 1@1 + 5@2 files
+2024/12/08-20:41:06.195 3414 Generated table #847@1: 85381 keys, 2234998 bytes
+2024/12/08-20:41:06.542 3414 Generated table #848@1: 67018 keys, 2250166 bytes
+2024/12/08-20:41:06.744 3414 Generated table #849@1: 8356 keys, 2165176 bytes
+2024/12/08-20:41:06.982 3414 Generated table #850@1: 26092 keys, 2198488 bytes
+2024/12/08-20:41:07.364 3414 Generated table #851@1: 91683 keys, 1894313 bytes
+2024/12/08-20:41:07.364 3414 Compacted 1@1 + 5@2 files => 10743141 bytes
+2024/12/08-20:41:07.411 3414 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/12/08-20:41:07.412 3414 Delete type=2 #840
+2024/12/08-20:41:07.412 3414 Delete type=2 #841
+2024/12/08-20:41:07.412 3414 Delete type=2 #842
+2024/12/08-20:41:07.412 3414 Delete type=2 #843
+2024/12/08-20:41:07.412 3414 Delete type=2 #844
+2024/12/08-20:41:07.413 3414 Delete type=2 #846
